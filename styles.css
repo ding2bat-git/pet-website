@@ -57,7 +57,7 @@ nav {
 
 /* Hero Section */
 #hero {
-    background: url('https://placehold.co/1200x600/87CEEB/FFF?text=Happy+Pets+Running') center/cover;
+    background: url('hero-bg.jpg') center/cover;
     height: 80vh;
     display: flex;
     align-items: center;
